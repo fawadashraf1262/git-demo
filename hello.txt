@@ -2,8 +2,7 @@ This is line one
 This is line two
 This is line three
 This is line four
-This is line five
-This is line six
+<<<<<<<<< Temporary merge branch 1
 
 
 This is line seven in feature 4
